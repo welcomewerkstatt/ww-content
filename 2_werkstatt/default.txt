@@ -1,0 +1,11 @@
+Title: Werkstatt
+
+----
+
+Text:
+
+Unsere Hauptbereiche sind:
+
+ - [Holzarbeiten](werkstatt/holzarbeiten)
+ - [Fahrradreparatur](werkstatt/fahrradreparatur)
+ - [Makerspace](werkstatt/makerspace)

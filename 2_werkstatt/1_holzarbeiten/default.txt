@@ -1,0 +1,41 @@
+Title: Holzarbeiten
+
+----
+
+Text:
+
+Bei uns können Besucher an mindestens 6 Arbeitsplätzen gleichzeitig arbeiten. Wir haben klassische Werkbänke mit Spannvorrichtungen und Arbeitstische mit 20mm Löchern. In der Werkstatt gibt es Zwingen und Holzleim (D2) in ausreichender Menge.
+
+Wenn du mit großen oder Handmaschinen arbeiten möchtest, dann brauchst du dafür eine Einführung von uns. Auf der Photowand in der Werkstatt findest du, wer dir zeigen kann, wie die Maschinen funktionieren. 
+
+#### Arbeitsplätze
+An jedem Arbeitsplatz in der Werkstatt findest du an Handwerkzeug u.a.
+
+ - Schraubendreher
+ - Maßstab
+ - verschiedene Hobel
+ - Säge
+ - Feile
+ - Raspel
+ - Hammer
+ - Beitel
+
+#### Maschinen
+Zu den großen Werkzeugmaschinen die du in unserem Maschinenraum findest gehören
+
+ - Tischkreissäge (Elektra Beckum PK 250)
+ - Dicken- und Abrichthobel (Elektra Beckum HC 260  M)
+ - Kappsäge (Elektra Beckum KGS 300)
+ - Drechselbank (Güde Typ 1000)
+ - CNC-Fräse (Eigenbau CNC-Portalfräse)
+ - Bandsäge (Elektra Beckum BAS 315)
+ - Diverse Standbohrmaschinen
+
+#### Handgeräte
+Außerdem haben wir noch eine Reihe von kleineren Elektrogeräten, u.a.
+
+ - Handkreissäge
+ - Oberfräse
+ - verschiedene Schleifer
+ - Akkubohrer
+ - Stichsäge
