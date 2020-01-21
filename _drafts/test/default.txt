@@ -1,0 +1,40 @@
+Title: Test
+
+----
+
+Headline: Test123
+
+----
+
+Text: Hallo das ist ein Test
+
+----
+
+Mybuilder:
+
+- 
+  headline: Sidebar
+  content: Noch ein Test
+  _key: textblock
+  isnew: true
+  _uid: textblock_1579631380757_316
+
+----
+
+Builder: 
+
+----
+
+Sidebar:
+
+- 
+  _key: textblock
+  headline: null
+  content: null
+  _uid: textblock_1579631922620_153
+- 
+  _key: vimeo
+  headline: null
+  url: null
+  isNew: true
+  _uid: vimeo_1579631931224_305
