@@ -4,6 +4,8 @@ Title: Home
 
 Text:
 
+### Moin!
+
 Herzlich Willkommen bei der Welcome Werkstatt e. V. in Barmbek-Süd!
 
 Wir sind eine Werkstatt zum Mitmachen. Unser Konzept ist, dass wir Platz und Werkzeug bereitstellen, damit du deine handwerklichen Projekte realisieren kannst. **Bei uns kannst du dich abends und am Wochenende handwerklich austoben und mit Gleichgesinnten austauschen.**
@@ -12,16 +14,19 @@ Bei uns hast du die Möglichkeit, beim Aufbau und der Weiterentwicklung der Werk
 
 (button: verein/mitgliedsantrag caption: Mitglied werden )
 
-Auf den Folgeseiten kannst du mehr über uns erfahren. Am besten kommst du uns aber direkt mal besuchen. **Samstags von 14h-18h ist immer jemand hier.**
+Auf den Folgeseiten kannst du mehr über uns erfahren. Am besten kommst du uns aber direkt mal besuchen.
 
 ----
 
-Headline: Moin!
+Mybuilder:
 
-----
-
-Sidebar:
-
-#### Nächste Veranstaltungen
-
-Blablubb
+- 
+  headline: Video
+  url: 'https://player.vimeo.com/video/328405019?dnt=1&title=0&byline=0&portrait=0'
+  _key: vimeo
+  _uid: vimeo_1579823144711_1007
+- 
+  headline: Aktuelle Veranstaltungen
+  entries: 3
+  _key: calendar
+  _uid: calendar_1579823212675_1125

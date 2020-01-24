@@ -4,11 +4,11 @@ Title: Holzarbeiten
 
 Text:
 
-Bei uns können Besucher an mindestens 6 Arbeitsplätzen gleichzeitig arbeiten. Wir haben klassische Werkbänke mit Spannvorrichtungen und Arbeitstische mit 20mm Löchern. In der Werkstatt gibt es Zwingen und Holzleim (D2) in ausreichender Menge.
+Bei uns können Besucher an **mindestens 6 Arbeitsplätzen** gleichzeitig arbeiten. Wir haben klassische Werkbänke mit Spannvorrichtungen und Arbeitstische mit 20mm Löchern. In der Werkstatt gibt es Zwingen und Holzleim (D2) in ausreichender Menge.
 
 Wenn du mit großen oder Handmaschinen arbeiten möchtest, dann brauchst du dafür eine Einführung von uns. Auf der Photowand in der Werkstatt findest du, wer dir zeigen kann, wie die Maschinen funktionieren. 
 
-#### Arbeitsplätze
+### Arbeitsplätze
 An jedem Arbeitsplatz in der Werkstatt findest du an Handwerkzeug u.a.
 
  - Schraubendreher
@@ -20,7 +20,7 @@ An jedem Arbeitsplatz in der Werkstatt findest du an Handwerkzeug u.a.
  - Hammer
  - Beitel
 
-#### Maschinen
+### Maschinen
 Zu den großen Werkzeugmaschinen die du in unserem Maschinenraum findest gehören
 
  - Tischkreissäge (Elektra Beckum PK 250)
@@ -31,7 +31,7 @@ Zu den großen Werkzeugmaschinen die du in unserem Maschinenraum findest gehöre
  - Bandsäge (Elektra Beckum BAS 315)
  - Diverse Standbohrmaschinen
 
-#### Handgeräte
+### Handgeräte
 Außerdem haben wir noch eine Reihe von kleineren Elektrogeräten, u.a.
 
  - Handkreissäge
@@ -39,3 +39,16 @@ Außerdem haben wir noch eine Reihe von kleineren Elektrogeräten, u.a.
  - verschiedene Schleifer
  - Akkubohrer
  - Stichsäge
+
+----
+
+Mybuilder:
+
+- 
+  headline: Bilder
+  imageset:
+    - img_1856.jpg
+    - fahrrad.jpg
+    - img_20190810_153154.jpg
+  _key: images
+  _uid: images_1579825201828_204
