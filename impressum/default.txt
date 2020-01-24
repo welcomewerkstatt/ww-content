@@ -2,9 +2,13 @@ Title: Impressum
 
 ----
 
+Headline: 
+
+----
+
 Text:
 
-### Angaben gemäß § 5 TMG
+#### Angaben gemäß § 5 TMG
 
 Welcome Werkstatt e. V.
 Bachstraße 98
@@ -14,9 +18,9 @@ Vereinsregisternummer: VR 23394
 Registergericht: Amtsgericht Hamburg, Registersachen
 
 Vertreten durch den Vorstand:
-Moritz Stückler (1. Vorsitzender)
-Benjamin Bunzel (2. Vorsitzender)
-Petra Polarczyk (Schatzmeisterin)
+- Moritz Stückler (1. Vorsitzender)
+- Benjamin Bunzel (2. Vorsitzender)
+- Petra Polarczyk (Schatzmeisterin)
 
 #### Kontakt
 Telefon: +49 (0) 15678 511498

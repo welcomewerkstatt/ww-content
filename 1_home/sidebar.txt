@@ -2,9 +2,11 @@ Title: Home
 
 ----
 
-Text:
+Headline: Moin!
 
-### Moin!
+----
+
+Text:
 
 Herzlich Willkommen bei der Welcome Werkstatt e. V. in Barmbek-Süd!
 

@@ -2,11 +2,16 @@ Title: Repair Café
 
 ----
 
+Headline: 
+
+----
+
 Text:
 
 Zu unserem Repair Café kannst du mit deinen defekten Geräten oder Kleinmöbeln vorbei kommen. Gemeinsam mit unseren erfahrenen Helfern kannst du selbst Hand anlegen beim Reparieren und so den Planeten vor weiteren Müllbergen oder unnötigem Elektroschrott bewahren. Nebenbei sparst du Kosten für eine Neuanschaffung und kannst vielleicht noch etwas dabei lernen.
 
 Und mit etwas Geschick und Glück nimmst du ein voll funktionsfähiges Teil wieder mit nach Hause. Zur Stärkung gibt es Limo, Kaffee und Kuchen.
+
 <br/>
 ### Wann findet das Repair Café statt?
 Jeden 2. Samstag in den geraden Monaten, ohne Anmeldung.
@@ -25,3 +30,7 @@ An der Anmeldung füllen wir einen Laufzettel aus, nach kleiner Wartezeit wirst 
 <br/>
 ### Haftungsbegrenzung
 Vor der Reparatur bzw. dem Reparaturversuch musst du eine Haftungsbegrenzung unterschreiben. Denn natürlich werden wir versuchen, Dinge zu retten - das kann aber auch schief gehen. Wir sind kein Kundendienst, der Haftung oder sogar Garantie anbieten kann. Wenn du damit nicht einverstanden bist, können wir leider nichts für dich tun.
+
+----
+
+Mybuilder: 

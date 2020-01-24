@@ -2,6 +2,10 @@ Title: Spenden
 
 ----
 
+Headline: 
+
+----
+
 Text:
 
 Als Initiative von Ehrenamtlichen sind wir auch auf deine Spende angewiesen. Wenn es um kleinere Summen geht findest du bei uns im Büro eine Spendenbüchse. Willst du Sachspenden vorbeigringen, dann frag bitte vorher per Email nach, ob wir Interesse haben. Außerdem kannst du uns gerne eine Spende auf unser Konto überweisen.
@@ -9,9 +13,13 @@ Als Initiative von Ehrenamtlichen sind wir auch auf deine Spende angewiesen. Wen
 Bitte gib bei einer Spende im Verwendungszweck das Wort »Spende« und deine Adresse an.
 Bei Spenden bis zu 200 € benötigst du gegenüber dem Finanzamt lediglich einen Kontoauszug, um diese in der Steuererklärung geltend zu machen. Ab Spenden von 20 Euro im Jahr senden wir dir gerne eine Spendenbescheinigung zu, wenn du deine Adresse im Verwendungszweck angibst.
 <br/>
-### Spendenkonto
+###Spendenkonto
 
 Inhaber: Welcome Werkstatt e.V.
 IBAN: DE31 2005 0550 1240 1316 70
 BIC: HASPDEHHXXX
 Bank: Hamburger Sparkasse
+
+----
+
+Mybuilder: 

@@ -2,10 +2,26 @@ Title: Fahrradreparatur
 
 ----
 
+Headline: 
+
+----
+
 Text:
 
 Du möchtest dich mit der Fahrradtechnik vertrauter machen und dein eigenes Fahrrad selbst reparieren? Dir fehlen aber der Platz und das Wissen dafür? Dann bist du bei uns richtig.
 
 Wir haben eine gute Ausstattung mit Fahrradwerkzeugen. Von der Kettenpeitsche zum Zentrierständer ist alles vorhanden. Was wir nicht haben, sind Ersatzteile oder gebrauchte Fahrräder. Uns ist wichtig dass du die Ärmel selber hochkrempelst, Hand ans Zeug legst und eine gehörige Portion Neugier und Geduld mitbringst. Dein Fahrrad reparierst du höchstpersönlich. Du kannst jederzeit eins der anwesenden Mitglieder um Hilfe bitten. Die Werkzeuge behältst du während der Reparatur aber immer in der Hand. Beachte, dass wir keine gewerbliche Fahrradreparatur betreiben und daher keine Auftragsarbeiten durchführen.
 
+
 Für alle, die ihr Fahrrad lieber in die Hände von Profis geben möchten, empfehlen wir, sich an die zahlreichen professionellen Fahrradläden zu wenden.
+
+----
+
+Mybuilder:
+
+- 
+  headline: Bilder
+  imageset:
+    - fahrrad.jpg
+  _key: images
+  _uid: images_1579850557492_2349

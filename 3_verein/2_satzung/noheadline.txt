@@ -1,0 +1,9 @@
+Title: Satzung
+
+----
+
+Text: (external: https://raw.githubusercontent.com/welcomewerkstatt/dokumente/master/satzung.md)
+
+----
+
+Mybuilder: 

@@ -2,6 +2,10 @@ Title: Holzarbeiten
 
 ----
 
+Headline: 
+
+----
+
 Text:
 
 Bei uns können Besucher an **mindestens 6 Arbeitsplätzen** gleichzeitig arbeiten. Wir haben klassische Werkbänke mit Spannvorrichtungen und Arbeitstische mit 20mm Löchern. In der Werkstatt gibt es Zwingen und Holzleim (D2) in ausreichender Menge.
@@ -48,7 +52,6 @@ Mybuilder:
   headline: Bilder
   imageset:
     - img_1856.jpg
-    - fahrrad.jpg
     - img_20190810_153154.jpg
   _key: images
   _uid: images_1579825201828_204

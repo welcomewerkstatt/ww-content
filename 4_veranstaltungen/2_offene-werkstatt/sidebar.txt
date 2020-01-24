@@ -2,6 +2,10 @@ Title: Offene Werkstatt
 
 ----
 
+Headline: 
+
+----
+
 Text:
 
 Während unserer [Öffnungszeiten](/kalender) kannst du ohne Anmeldung in der Werkstatt vorbeikommen und deine eigenen Projekte verwirklichen. 
@@ -29,10 +33,18 @@ Für ein angenehmes und sicheres Arbeiten haben wir einige Regelungen, die du mi
 ### Fehlt etwas?
 Unsere Ausstattung wächst ständig und wir arbeiten daran, die Arbeitsplätze möglichst komfortabel zu gestalten. Sag’ uns gerne, was du noch für Anregungen hast.
 
-Sidebar:
-- Jeden Samstag 14h - 18h
-- Gäste 10€ (Begleitperson 8€)
-- Anmeldung nicht nötig
-- Werkzeug von uns
-- Material von dir
-- Aufsicht hilft bei der Umsetzung
+----
+
+Mybuilder:
+
+- 
+  headline: Fakten
+  text: |
+    - Jeden Samstag von 14h - 18h
+    - Gäste 10€ (Begleitperson 8€)
+    - Anmeldung nicht nötig
+    - Werkzeug von uns
+    - Material von dir
+    - Aufsicht hilft bei der Umsetzung
+  _key: textblock
+  _uid: textblock_1579848998791_1366
