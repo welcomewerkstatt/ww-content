@@ -1,1 +1,5 @@
 Template: sidebarimage
+
+----
+
+Sort: 3

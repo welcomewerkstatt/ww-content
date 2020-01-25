@@ -1,1 +1,5 @@
 Title: Welcome Werkstatt
+
+----
+
+Description: Die Welcome Werkstatt ist die erste offene Stadtteilwerkstatt im Hamburger Osten. Gäste und Vereinsmitglieder können unsere Räume,Werkzeuge und Maschinen nutzen und erhalten immer einen guten Rat.
