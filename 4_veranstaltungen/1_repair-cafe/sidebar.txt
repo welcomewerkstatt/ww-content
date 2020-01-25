@@ -33,4 +33,12 @@ Vor der Reparatur bzw. dem Reparaturversuch musst du eine Haftungsbegrenzung unt
 
 ----
 
-Mybuilder: 
+Mybuilder:
+
+- 
+  headline: Bilder
+  imageset:
+    - dscf6691.jpg
+    - img_20190622_150903.jpg
+  _key: images
+  _uid: images_1579891490169_3973

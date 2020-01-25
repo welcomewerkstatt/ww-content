@@ -12,6 +12,7 @@ Für den Maker in dir bieten wir Elektronik-Arbeitsplätze mit Lötstation, Lupe
 
 Wir haben einen 3D Drucker, mit dem PLA gedruckt wird und eine CNC-Fräse, mit der z.B. Holz und Plexiglas gefräst werden können.
 
+### Neues erschaffen in 3D
 Der 3D Drucker nimmt microSD-Karten mit deinen Modellen auf, außerdem kann innerhalb der Werkstatt über WLAN unser Octoprint Server genutzt werden. Auf dem Bürorechner findest du ein voreingestelltes Profil für Cura, den Slicer, den wir verwenden.
 
 Direkt neben der CNC-Fräse steht der Rechner mit EstlCAM, der die Fräse steuert. EstlCAM nimmt DXF und SVG Dateien an, die du dann direkt auf dem Rechner in ein Fräsprogramm umsetzen kannst.
@@ -20,4 +21,12 @@ In der Werkstatt findest du auch eine Nähmaschine.
 
 ----
 
-Mybuilder: 
+Mybuilder:
+
+- 
+  headline: Bilder
+  imageset:
+    - 3d-drucker.jpg
+    - img_1870.jpg
+  _key: images
+  _uid: images_1579890641270_1222
