@@ -6,7 +6,7 @@ Headline: Fehler
 
 ----
 
-Text: Da ist wohl leider ein Fehler aufgetreten. Vielleicht hast du dich vertippt, oder auf einen toten Link geklickt, oder dein Computer will dich einfach ärgern. Vielleicht haben wir auch einfach etwas kaputt gemacht ohne es zu merken. Schreib uns doch (link: impressum text: einfach eine E-Mail) wenn dein Problem länger besteht.
+Text: Da ist wohl leider ein Fehler aufgetreten. Vielleicht hast du dich vertippt, oder auf einen toten Link geklickt, oder dein Computer will dich einfach ärgern. Vielleicht haben wir auch einfach etwas kaputt gemacht ohne es zu merken. Schreib uns doch (link: kontakt text: einfach eine E-Mail) wenn dein Problem länger besteht.
 
 ----
 

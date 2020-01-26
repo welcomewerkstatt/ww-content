@@ -2,13 +2,17 @@ Title: Kontakt
 
 ----
 
+Headline: 
+
+----
+
 Text:
 
-Du kannst uns via Email unter info@welcome-werkstatt.de erreichen.
+Du kannst uns via E-Mail unter info(ätt)welcome-werkstatt.de erreichen.
 
 Wir sind telefonisch unter 015678 511498 erreichbar.
 
-Aussdem kannst du uns Post schicken:
+Ausserdem kannst du uns Post schicken:
 
 > Welcome Werkstatt e.V.
 > Bachstraße 98
