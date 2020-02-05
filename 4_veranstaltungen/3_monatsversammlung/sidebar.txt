@@ -1,0 +1,31 @@
+Title: Monatsversammlung
+
+----
+
+Headline: 
+
+----
+
+Text:
+
+An jedem zweiten Samstag im Monat treffen sich die Vereinsmitglieder der Welcome Werkstatt zur Monatsversammlung. Bei diesem regelmäßigen Termin besprechen wir alle aktuellen Themen rund um das Vereinsleben. Zur Tagesordnung gehören zum Beispiel:
+- Neue und ausgeschiedene Mitglieder
+- Finanzielle Situation
+- Anstehende Veranstaltungen
+- Anschaffungen oder Spenden von neuer Ausstattung
+
+### Neue Mitglieder herzlich willkommen
+Die Monatsversammlung ist öffentlich und auch eine gute Gelegenheit für neue Mitglieder und Interessenten, sich vorzustellen und den Verein kennenzulernen. Kommt gerne vorbei, wenn ihr einen Einblick in das Vereinsleben bekommen wollt oder bringt gleich einen ausgefüllten Mitgliedsantrag mit.
+
+----
+
+Mybuilder:
+
+- 
+  headline: Details
+  text: |
+    - Jeden 2. Samstag im Monat
+    - Beginn um 18:15 Uhr
+    - Dauer ca. 2 Stunden
+  _key: textblock
+  _uid: textblock_1580805237643_651

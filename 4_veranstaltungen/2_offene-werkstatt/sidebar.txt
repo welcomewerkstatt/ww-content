@@ -10,7 +10,7 @@ Text:
 
 Während unserer [Öffnungszeiten](/kalender) kannst du ohne Anmeldung in der Werkstatt vorbeikommen und deine eigenen Projekte verwirklichen. 
 
-Es ist eine Aufsicht da, die dir einen Arbeitsplatz zur Verfügung stellt. Info zu den Arbeitsplätzen und Werkzeugen findest du im Bereich [Werkstatt](/werkstatt). Material musst du selbst mitbringen. Gerne beraten wir dich bei Fragen oder geben Hilfestellung. 
+Es ist eine Aufsicht da, die dir einen Arbeitsplatz zur Verfügung stellt. Info zu den Arbeitsplätzen und Werkzeugen findest du im Hauptmenü unter dem Bereich Werkstatt. Material musst du selbst mitbringen. Gerne beraten wir dich bei Fragen oder geben Hilfestellung. 
 
 Willst du unsere Maschinen nutzen, muss jemand mit der entsprechenden Kompetenz anwesend sein, das solltest du daher im Vorwege absprechen.
 
@@ -54,3 +54,4 @@ Mybuilder:
     - img_6818.jpg
   _key: images
   _uid: images_1579891254237_3148
+  info: null
