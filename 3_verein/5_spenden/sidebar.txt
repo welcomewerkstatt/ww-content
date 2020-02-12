@@ -1,4 +1,4 @@
-Title: Spenden
+Title: Spenden & Helfen
 
 ----
 
@@ -8,17 +8,30 @@ Headline:
 
 Text:
 
-Als Initiative von Ehrenamtlichen sind wir auch auf deine Spende angewiesen. Wenn es um kleinere Summen geht findest du bei uns im Büro eine Spendenbüchse. Willst du Sachspenden vorbeigringen, dann frag bitte vorher per Email nach, ob wir Interesse haben. Außerdem kannst du uns gerne eine Spende auf unser Konto überweisen.
+Als gemeinnütziger und ehrenamtlich betriebener Verein sind wir auf Geld- und Sachspenden dringend angewiesen und freuen uns daher sehr über deinen Beitrag.
 
-Bitte gib bei einer Spende im Verwendungszweck das Wort »Spende« und deine Adresse an.
-Bei Spenden bis zu 200 € benötigst du gegenüber dem Finanzamt lediglich einen Kontoauszug, um diese in der Steuererklärung geltend zu machen. Ab Spenden von 20 Euro im Jahr senden wir dir gerne eine Spendenbescheinigung zu, wenn du deine Adresse im Verwendungszweck angibst.
-<br/>
-###Spendenkonto
+## Geldspenden
 
-Inhaber: Welcome Werkstatt e.V.
-IBAN: DE31 2005 0550 1240 1316 70
-BIC: HASPDEHHXXX
-Bank: Hamburger Sparkasse
+Wenn du kleinere Summen spenden möchtest, findest du dafür in unserem Büro eine Spendenbüchse.
+
+Gerne kannst du auch eine Überweisung auf unser Vereinskonto tätigen:
+**Inhaber:** Welcome Werkstatt e. V.
+**IBAN:** DE31 2005 0550 1240 1316 70
+**BIC:** HASPDEHHXXX
+**Bank:** Hamburger Sparkasse
+
+Ab einem Betrag von 20 Euro pro Jahr senden wir dir gerne eine Spendenbescheinigung zu, wenn du deine Adresse im Verwendungszweck angibst. Bitte gib außerdem unbedingt auch das Wort "Spende" an.
+Bei Spenden bis zu 200 Euro reicht gegenüber dem Finanzamt übrigens ein Kontoauszug, um diese in der Steuererklärung geltend zu machen. 
+
+## Sachspenden
+
+Du möchtest uns mit einer Sachspende (zum Beispiel Werkzeug) unterstützen? Sehr gerne, aber bitte beachte dabei Folgendes: Wir sind inzwischen relativ gut ausgestattet. Das heißt dass wir einfache Handwerkzeuge meistens schon in mehrfacher Ausführung haben. Wenn du größere Maschinen, seltenes oder hochwertiges Werkzeug spenden möchtest, sind wir aber sicherlich daran interessiert. Bitte (link: kontakt text: kontaktiere uns zur Sicherheit) einfach bevor du eine Sachspende vorbei bringst.
+
+## Helfen ohne Geld
+Wir sind auf Aufmerksamkeit und Öffentlichkeit angewiesen, daher kannst du uns auch super helfen, wenn du deinen Freunden und Bekannten von der Welcome Werkstatt erzählst – oder noch besser, wenn du öffentlich etwas über uns ins Internet schreibst, zum Beispiel hier:
+* Hinterlasse eine (link: https://g.page/WelcomeWerkstatt/review?ma text: Bewertung bei Google)
+* Schreib' eine (link: https://www.facebook.com/welcome.werkstatt/reviews/ text: Rezension auf Facebook und like unsere Seite)
+* Empfiehl uns auf (link: https://nebenan.de/places/organizations/2185?utm_medium=shared_link&utm_source=referral&utm_campaign=organisation text: Nebenan.de)
 
 ----
 
@@ -30,3 +43,4 @@ Mybuilder:
     - img_6790-1.jpg
   _key: images
   _uid: images_1579891150227_2241
+  info: null
