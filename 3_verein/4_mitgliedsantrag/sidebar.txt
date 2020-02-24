@@ -25,6 +25,6 @@ Mybuilder:
 
 - 
   headline: Antragsformular
-  text: '(button: /assets/antrag.pdf caption: Herunterladen  icon:download)'
+  text: '(button: /assets/antrag_v6.pdf caption: Herunterladen  icon:download)'
   _key: textblock
   _uid: textblock_1579974516917_1518
