@@ -1,0 +1,26 @@
+Title: Textiles Repair Café
+
+----
+
+Headline: 
+
+----
+
+Text:
+
+Knopf annähen, Socken stopfen, Bettwäsche flicken oder Nähte erneuern – all das und noch viel mehr könnt ihr in unserem textilen Repair Café erledigen. Es ist ganz einfach und jeder kann mitmachen. Wir helfen und erklären euch, wie ihr Textilien reparieren könnt, und so einen kleinen Beitrag zur Nachhaltigkeit leisten könnt. Ihr könnt euer eigenes Nähzubehör selber mitbringen oder bei uns gegen eine kleine Spende bekommen.
+
+**Da es sich um die erste Ausgabe dieser Veranstaltung handelt haben wir leider noch keinen Stoff-Fundus. Bringt euch also bitte eure eigenen Stoffe zum Flicken selber mit.**
+
+----
+
+Mybuilder:
+
+- 
+  headline: Fakten
+  text: |
+    - 14 bis 17 Uhr
+    - Stoffe bitte selber mitbringen
+    - Nähmaschine und Werkzeuge haben wir
+  _key: textblock
+  _uid: textblock_1581711960760_588
