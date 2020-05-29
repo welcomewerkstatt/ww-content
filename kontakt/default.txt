@@ -20,4 +20,4 @@ Ausserdem kannst du uns Post schicken:
 
 #### Anfahrt
 
-(embed: <iframe width="1260" height="450" frameborder="0" style="border:1px solid black" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJWbfWkdiJsUcRFngAYAMQah8&key=AIzaSyBTa88HeXHYGSgsATypvoN20eS4eVOhwoI" allowfullscreen></iframe> )
+(mapbox: )
