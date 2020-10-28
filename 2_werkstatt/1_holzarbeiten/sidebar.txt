@@ -31,7 +31,7 @@ Zu den großen Werkzeugmaschinen die du in unserem Maschinenraum findest gehöre
  - Dicken- und Abrichthobel (Elektra Beckum HC 260  M)
  - Kappsäge (Elektra Beckum KGS 300)
  - Drechselbank (Güde Typ 1000)
- - CNC-Fräse (Eigenbau CNC-Portalfräse)
+ - CNC-Fräse (Eigenbau basierend auf dem (link: https://www.cnc14.de/workshops/informationen/cnc14-fraese text: CNC-14-Projekt))
  - Bandsäge (Elektra Beckum BAS 315)
  - Diverse Standbohrmaschinen
 

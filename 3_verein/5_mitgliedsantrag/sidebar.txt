@@ -15,7 +15,7 @@ Genug gelesen? Du willst endlich loslegen und Mitglied werden? Super, wir freuen
 - Überweise uns deinen ersten Mitgliedsbeitrag und die Aufnahmegebühr
 - Lasse uns den ausgefüllten Antrag zukommen:
    - Per Post an **Welcome Werkstatt e. V., Bachstr. 98, 22083 Hamburg**
-   - Per Mail an **info@welcome-werkstatt.de**
+   - Per Mail an **onboarding@welcome-werkstatt.de**
    - Händisch in unseren **Briefkasten**
    - Persönlich abgeben während unserer **Offenen Werkstatt**
 
@@ -25,6 +25,6 @@ Mybuilder:
 
 - 
   headline: Antragsformular
-  text: '(button: /assets/antrag_v6.pdf caption: Herunterladen icon:download)'
+  text: '(button: /assets/antrag_v7.pdf caption: Herunterladen icon:download)'
   _key: textblock
   _uid: textblock_1579974516917_1518

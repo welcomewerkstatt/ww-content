@@ -8,7 +8,7 @@ Headline:
 
 Text:
 
-Während unserer [Öffnungszeiten](/kalender) kannst du ohne Anmeldung in der Werkstatt vorbeikommen und deine eigenen Projekte verwirklichen. 
+Während unserer [Öffnungszeiten](/kalender) kannst du mit telefonischer Anmeldung (015678 511498 ab 12 Uhr des selben Tages) in der Werkstatt vorbeikommen und deine eigenen Projekte verwirklichen. Wenn du dich per Telefon meldest können wir dir sagen ob noch Platz frei ist und dir einen Platz für eine Stunde im Vorraus freihalten.
 
 Es ist eine Aufsicht da, die dir einen Arbeitsplatz zur Verfügung stellt. Info zu den Arbeitsplätzen und Werkzeugen findest du im Hauptmenü unter dem Bereich Werkstatt. Material musst du selbst mitbringen. Gerne beraten wir dich bei Fragen oder geben Hilfestellung. 
 
@@ -24,6 +24,8 @@ Vielleicht lohnt sich für dich auch schon eine Mitgliedschaft?
 Die Nutzung der Werkstatt erfolgt auf eigene Gefahr. Bei Schäden oder Verletzungen haftet der Besucher.
 Für ein angenehmes und sicheres Arbeiten haben wir einige Regelungen, die du mit deiner Anmeldung vor Ort akzeptierst:
 
+ - Bitte mach dich mit dem [Hygiene Regeln](/verein/hygiene-regeln) vertraut.
+ - Bringe deine eigene persönliche Schutzausrüstung (Gehörschutz, Sicherheitsschuhe, Augenschutz) mit.
  - Sicherheit geht vor: Am Anfang bekommst du eine Sicherheitsunterweisung. 
  - Unser/e Betreuer*in weist dich nach Absprache und Bedarf in die Nutzung der vorhandenen Werkzeuge und Maschinen ein. Nutze diese nur, wenn du dich damit sicher fühlst. Im Zweifelsfall stehen dir unsere Betreuer zur Verfügung.
  - Mit Werkzeugen und Maschinen bitte immer vorsichtig und sorgfältig umgehen.
@@ -40,9 +42,9 @@ Mybuilder:
 - 
   headline: Fakten
   text: |
-    - Jeden Samstag von 14h - 18h
+    - Jeden zweiten Samstag von 14h - 18h
     - Gäste 10€ (Begleitperson 8€)
-    - Anmeldung nicht nötig
+    - Anmeldung per Telefon (015678 511498) ab 12 Uhr des selben Tages
     - Werkzeug von uns
     - Material von dir
     - Aufsicht hilft bei der Umsetzung

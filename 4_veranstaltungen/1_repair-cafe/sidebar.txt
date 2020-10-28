@@ -8,26 +8,35 @@ Headline:
 
 Text:
 
+<div style="border: 1px solid #f56565">
+  <div style="padding: 10px; color: white; background-color: #f56565"><b>Hinweise zur aktuellen Situation (Stand:
+      25.9.2020)</b></div>
+
+  <div style="color: #c53030; background-color: #fff5f5; padding: 10px">
+    <p>Aufgrund der Corona-Lage können wir aktuell kein Repair-Café veranstalten. Im Kalender werdet ihr erfahren, sobald es wieder weiter geht.</p>
+  </div>
+</div>
+
 Zu unserem Repair Café kannst du mit deinen defekten Geräten oder Kleinmöbeln vorbei kommen. Gemeinsam mit unseren erfahrenen Helfern kannst du selbst Hand anlegen beim Reparieren und so den Planeten vor weiteren Müllbergen oder unnötigem Elektroschrott bewahren. Nebenbei sparst du Kosten für eine Neuanschaffung und kannst vielleicht noch etwas dabei lernen.
 
 Und mit etwas Geschick und Glück nimmst du ein voll funktionsfähiges Teil wieder mit nach Hause. Zur Stärkung gibt es Limo, Kaffee und Kuchen.
 
-<br/>
 ### Wann findet das Repair Café statt?
 Jeden 2. Samstag in den geraden Monaten, ohne Anmeldung.
 Abweichungen durch Feiertage oder Ferien sind möglich, für die Termine geht es [hier](/kalender) zum Kalender.
-<br/>
+
+
 ### Wie geht das und was muss man mitbringen?
 Mitbringen musst du natürlich den Patienten selbst. Über eine Spende / Kuchenspende freuen wir uns!
 An der Anmeldung füllen wir einen Laufzettel aus, nach kleiner Wartezeit wirst du dann aufgerufen. Unsere Helfer erkennst du an den Namensschildern.
-<br/>
+
 ### Was kann repariert werden?
  - Elektrokleingeräte vom Toaster über Schreibtischleuchten bis zum Radio
  - Kleinmöbel und andere Gegenstände wie Stühle oder Schubladen, die geleimt oder neu verschraubt werden müssen
  - Rollatoren, Fahrräder oder andere Fahrzeuge, die kleine Probleme haben 
  - auch eine Nähmaschine steht zur Benutzung bereit
 
-<br/>
+
 ### Haftungsbegrenzung
 Vor der Reparatur bzw. dem Reparaturversuch musst du eine Haftungsbegrenzung unterschreiben. Denn natürlich werden wir versuchen, Dinge zu retten - das kann aber auch schief gehen. Wir sind kein Kundendienst, der Haftung oder sogar Garantie anbieten kann. Wenn du damit nicht einverstanden bist, können wir leider nichts für dich tun.
 
@@ -42,3 +51,4 @@ Mybuilder:
     - img_20190622_150903.jpg
   _key: images
   _uid: images_1579891490169_3973
+  info: null
