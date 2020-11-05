@@ -10,13 +10,13 @@ Text:
 
 <div style="border: 1px solid #f56565">
   <div style="padding: 10px; color: white; background-color: #f56565"><b>Hinweise zur aktuellen Situation (Stand:
-      25.9.2020)</b></div>
+      1.11.2020)</b></div>
 
   <div style="color: #c53030; background-color: #fff5f5; padding: 10px">
-    <p>Wir arbeiten daran wieder voll für euch da zu sein, aufgrund der Lage rund um das Corona-Virus ist der Betrieb in unserer Werkstatt aber noch eingeschränkt:
+    <p>Aufgrund der Lage rund um das Corona-Virus ist der Betrieb in unserer Werkstatt eingeschränkt:
     <ul>
-      <li>Die offene Werkstatt an Samstagen findet momentan nur alle zwei Wochen statt. Aktuelle Termine könnt ihr dem Kalender entnehmen. Macht euch mit den <a href="/verein/hygiene-regeln">Hygiene-Regeln</a> vertraut und meldet euch am jeweiligen Samstag ab 12 Uhr vorher per Telefon (015678 511498), wenn ihr die Werkstatt nutzen wollt</li>
-      <li>Mitglieder können unsere Räume unter Berücksichtigung der <a href="/verein/hygiene-regeln">Hygiene-Regeln</a> wieder nutzen</li>
+      <li>Die offene Werkstatt findet momentan nicht mehr statt. Wenn es wieder weiter geht, findet ihr die neuen Termine im Kalender.</li>
+      <li>Mitglieder können unsere Räume unter Berücksichtigung der <a href="/verein/hygiene-regeln">Hygiene-Regeln</a> eingeschränkt nutzen.</li>
     </ul>
     </p>
   </div>
