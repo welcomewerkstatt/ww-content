@@ -1,0 +1,3 @@
+[submodule "inventar"]
+	path = inventar
+	url = git@github.com:welcomewerkstatt/ww-inventar.git
