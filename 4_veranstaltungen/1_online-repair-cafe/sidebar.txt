@@ -1,0 +1,45 @@
+Title: Online Repair Café
+
+----
+
+Headline: 
+
+----
+
+Text:
+
+In unserem Repair Café kümmern wir uns mit dir gemeinsam um deine defekten Geräte oder Kleinmöbel. Durch das Reparieren können wir den Planeten zusammen vor weiteren Müllbergen oder unnötigem Elektroschrott bewahren. Nebenbei sparst du Kosten für eine Neuanschaffung und kannst noch etwas dabei lernen. Und mit etwas Geschick und Glück hast du am Ende wieder ein voll funktionsfähiges Teil.
+
+Das Repair Café kann pandemiebedingt leider nicht in gewohnter Weise in der Werkstatt stattfinden. Wir möchten uns trotzdem um dein Anliegen kümmern! Bedienungsfragen, Tipps zur Wartung und eine Begleitung und Anleitung bei einfachen Reparaturen möchten wir mit dir zusammen online lösen - oder über mögliche Lösungswege nachdenken.
+
+### Wie geht das?
+Es gibt [feste Termine](/kalender), an denen wir uns in einem Meeting online begegnen und gemeinsam dein defektes Gerät oder deine Fragen zur Bedienung von was-auch-immer bearbeiten.
+
+
+### Nicht ohne Anmeldung
+Zuerst meldest du dich per E-Mail unter **repaircafe@welcome-werkstatt.de** an. Schreibe uns bitte dazu, worum es geht:
+
+1. Art des Gerätes (z. B. Staubsauger oder Fliewatüüt)
+2. möglichst Marke und Modell (z. B. Modell Supersaug3_XL von Schlurfi)
+3. Problem / Defekt (was ist kaputt oder was funktioniert nicht?)
+4. Wenn du schon eine Idee hast, woran es liegt, schreib uns das oder weitere Anmerkungen bitte gerne dazu! Schreib gerne auch, wenn du noch keine oder wenig Erfahrung mit Online-Meetings hast.
+
+Wir bestätigen dir die Anmeldung und schicken dir den Link zu unserem Meeting.
+
+### Wie läuft die Reparatur?
+ Beim Termin wird sich eine Reparateur*in der Sache annehmen und zunächst eine Fehlerdiagnose durchführen, soweit möglich. Alles weitere wird dann gemeinsam besprochen und hängt vom Defekt und deinen Möglichkeiten Zuhause ab.
+
+Nach erfolgter Reparatur oder Reparaturversuch freuen wir uns natürlich auch online über eine Spende, (link: /verein/spenden text: z. B. per PayPal und / oder über eine Empfehlung).
+
+----
+
+Mybuilder:
+
+- 
+  headline: Bilder
+  imageset:
+    - dscf6691.jpg
+    - img_20190622_150903.jpg
+  _key: images
+  _uid: images_1579891490169_3973
+  info: null
