@@ -31,4 +31,4 @@ Mybuilder:
     - Kleiner Stoff-Fundus vorhanden
     - Nähmaschine und Werkzeuge vorhanden
   _key: textblock
-  _uid: textblock_1581711960760_588
+  _uid: textblock_1606061837172_218
