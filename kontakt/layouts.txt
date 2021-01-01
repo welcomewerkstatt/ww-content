@@ -1,0 +1,9 @@
+Title: Kontakt
+
+----
+
+Headline: 
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"Du kannst uns via E-Mail unter info(\u00e4tt)welcome-werkstatt.de erreichen.\n\nWir sind telefonisch unter 015678 511498 erreichbar.\n\nAusserdem kannst du uns Post schicken:\n\n> Welcome Werkstatt e. V.\n> Bachstra\u00dfe 98\n> 22083 Hamburg\n\n#### Anfahrt\n\n(mapbox: )"},"id":"7805c259-f624-47bb-9796-58f991724ab6","isHidden":false,"type":"markdown"}],"id":"74be3991-9faa-4dfd-8eb6-c2f0a480e0ce","width":"1\/1"}],"id":"eaa842d0-b7f7-4a06-98b6-5ff04e2aae57"}]
