@@ -1,3 +1,6 @@
 [submodule "inventar"]
 	path = inventar
 	url = git@github.com:welcomewerkstatt/ww-inventar.git
+[submodule "internes"]
+	path = internes
+	url = git@github.com:welcomewerkstatt/ww-site-internal.git
