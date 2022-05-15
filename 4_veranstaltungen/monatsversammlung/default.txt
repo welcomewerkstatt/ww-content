@@ -1,0 +1,9 @@
+Title: Monatsversammlung
+
+----
+
+Headline: Monatsversammlung
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>An jedem zweiten Samstag im Monat treffen sich die Vereinsmitglieder der Welcome Werkstatt online zur Monatsversammlung. Bei diesem regelm\u00e4\u00dfigen Termin besprechen wir alle aktuellen Themen rund um das Vereinsleben. Zur Tagesordnung geh\u00f6ren zum Beispiel:<\/p>"},"id":"9231cb3e-ea78-4294-ba93-678791de54f8","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>Neue und ausgeschiedene Mitglieder<\/p><\/li><li><p>Finanzielle Situation<\/p><\/li><li><p>Anstehende Veranstaltungen<\/p><\/li><li><p>Anschaffungen oder Spenden von neuer Ausstattung<\/p><\/li><\/ul>"},"id":"bb92019a-a3d6-453b-b8c9-767ed631e7e9","isHidden":false,"type":"list"},{"content":{"level":"h3","text":"Neue Mitglieder sind herzlich willkommen"},"id":"47279694-1736-49c2-9801-d71c5f2d9297","isHidden":false,"type":"heading"},{"content":{"text":"<p>Die Monatsversammlung ist \u00f6ffentlich und auch eine gute Gelegenheit f\u00fcr neue Mitglieder und Interessenten, sich vorzustellen und den Verein kennenzulernen. Meldet euch per Email, wenn ihr einen Einblick in das Vereinsleben bekommen wollt, dann schicken wir euch die entsprechenden Links zu unserer Videokonferenz.<\/p>"},"id":"f4b79e01-4acd-4313-b3e0-0d51a052ea3e","isHidden":false,"type":"text"}],"id":"c1af3dd2-904e-4ee5-809f-577be2db0300","width":"2\/3"},{"blocks":[{"content":{"level":"h4","text":"Details"},"id":"21bdecaf-73a1-421c-8f00-5e3d4d5249ee","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><p>Jeden 2. Samstag im Monat<\/p><\/li><li><p>Beginn um 18:15 Uhr<\/p><\/li><li><p>Dauer ca. 2 Stunden<\/p><\/li><\/ul>"},"id":"87936501-3dab-482d-b667-ea4d0ef698c0","isHidden":false,"type":"list"}],"id":"349e7127-cff4-4a6d-8cb6-088ca76e548d","width":"1\/3"}],"id":"5cba7ef3-a706-494d-829f-0a017ab5023f"}]
