@@ -7,3 +7,7 @@ Headline:
 ----
 
 Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"(external: https:\/\/raw.githubusercontent.com\/welcomewerkstatt\/dokumente\/master\/satzung.md)"},"id":"f1ef7a72-9ba3-405a-8232-8f78e49d2a5b","isHidden":false,"type":"markdown"}],"id":"a3a09f88-0346-4462-aef5-65230faebc73","width":"1\/1"}],"id":"4f9564f9-1fd1-4e7a-9929-e09cdfb02ec1"}]
+
+----
+
+Uuid: hfz0HpCTtdmHNq6W
