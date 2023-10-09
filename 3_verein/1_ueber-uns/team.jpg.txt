@@ -3,3 +3,7 @@ Template: sidebarimage
 ----
 
 Sort: 1
+
+----
+
+Uuid: 631KXLfZNAKQGYRk
