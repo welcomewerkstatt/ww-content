@@ -1,0 +1,5 @@
+Uuid: Xgeozo8r7Kb254mm
+
+----
+
+Template: blocks/image

@@ -1,0 +1,13 @@
+Title: 360° Tour
+
+----
+
+Headline: 360° Tour
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Sieh dich virtuell und in 360 Grad bei uns um, und mach dir einen Eindruck von unserer Werkstatt.</p>"},"id":"ccf5dcf5-9a90-4e69-acaa-b68c87cfa1c6","isHidden":false,"type":"text"},{"content":{"code":"<iframe src=\"https://tour.welcome-werkstatt.de/\" id=\"tour\" title=\"360° Tour\"></iframe>"},"id":"b7f1eba1-512d-4353-92f2-d51bd123a77f","isHidden":false,"type":"embed"}],"id":"b11a6b86-6380-4048-ab82-931173b7cb8a","width":"1/1"}],"id":"febc589a-f0cd-46c6-bc6c-d727d6f79e68"}]
+
+----
+
+Uuid: nww3B6WD89iMQ82k

@@ -1,0 +1,13 @@
+Title: Textiles Repair Café
+
+----
+
+Headline: 
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Zwar ist ein regul\u00e4res Repair-Caf\u00e9 aufgrund der Corona-Situation derzeit leider noch nicht realisierbar, was jedoch (neben unserem Fahrrad-Repair-Caf\u00e9) m\u00f6glich ist: unser Textiles Repair-Caf\u00e9.<\/p><p>Knopf ann\u00e4hen, Socken stopfen, Bettw\u00e4sche flicken oder N\u00e4hte erneuern \u2013 all das und noch viel mehr k\u00f6nnt ihr in unserem textilen Repair-Caf\u00e9 erledigen. Es ist ganz einfach und jeder kann mitmachen. Wir helfen und erkl\u00e4ren euch, wie ihr Textilien reparieren k\u00f6nnt, und so einen kleinen Beitrag zur Nachhaltigkeit leisten k\u00f6nnt. Ihr k\u00f6nnt euer eigenes N\u00e4hzubeh\u00f6r selber mitbringen oder bei uns gegen eine kleine Spende bekommen.<\/p><p>Damit wir auch alle Corona-Vorschriften einhalten k\u00f6nnen, gilt auch bei dem Repair-Caf\u00e9 <a href=\"https:\/\/www.welcome-werkstatt.de\/verein\/hygiene-regeln\" rel=\"noopener noreferrer nofollow\">unser Hygienekonzept<\/a> und insbesondere folgende Regeln:<\/p>"},"id":"1074663a-e530-4f75-bb14-95f0ec9d0603","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>Bitte melde dich m\u00f6glichst telefonisch im Voraus unter der Nummer 015678 511498 an<\/p><\/li><li><p>Es muss permanent eine Mund-Nasen-Bedeckung getragen werden<\/p><\/li><li><p>Es stehen f\u00fcnf N\u00e4hpl\u00e4tze mit ausreichend Sitzabstand zueinander zur Verf\u00fcgung<\/p><\/li><li><p>An einem N\u00e4hplatz d\u00fcrfen maximal ein Helfer und ein Teilnehmer arbeiten (keine Begleitpersonen)<\/p><\/li><li><p>Die Fenster in dem Raum bleiben die ganze Zeit \u00fcber ge\u00f6ffnet<\/p><\/li><li><p>Ein Kuchenbuffet kann es leider nicht geben<\/p><\/li><\/ul>"},"id":"d784e5fc-e50d-4c5a-b3e1-1b40d4fd948f","isHidden":false,"type":"list"}],"id":"98c89b7f-c590-481b-8493-00e7fa9bad9a","width":"2\/3"},{"blocks":[{"content":{"level":"h4","text":"Fakten"},"id":"0932e90e-d22a-4c53-88c4-a8e9f43a13b4","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><p>14 bis 18 Uhr<\/p><\/li><li><p>Kleiner Stoff-Fundus vorhanden<\/p><\/li><li><p>N\u00e4hmaschine und Werkzeuge vorhanden<\/p><\/li><\/ul>"},"id":"10ceb8d5-191f-436f-ade4-8b754a685e81","isHidden":false,"type":"list"}],"id":"263e2900-44b7-4d8e-9a6b-eb9744fd6479","width":"1\/3"}],"id":"46dbf5bd-148a-400a-bc7c-420decf80f14"}]
+
+----
+
+Uuid: FXN8KJjdMAhfvUDV

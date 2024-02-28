@@ -1,9 +1,0 @@
-Template: sidebarimage
-
-----
-
-Sort: 4
-
-----
-
-Uuid: Mm26Wb3nuWDDp567

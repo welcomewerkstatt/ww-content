@@ -1,9 +1,0 @@
-Template: sidebarimage
-
-----
-
-Sort: 1
-
-----
-
-Uuid: gzK2bwQFfreuqBAf

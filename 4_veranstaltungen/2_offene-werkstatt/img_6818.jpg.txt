@@ -1,5 +1,0 @@
-Template: sidebarimage
-
-----
-
-Uuid: HVeYXzkioanIhpKl
