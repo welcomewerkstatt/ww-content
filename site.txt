@@ -2,6 +2,66 @@ Title: Welcome Werkstatt e. V.
 
 ----
 
+Metatemplate: {{ title }} | Welcome Werkstatt e. V.
+
+----
+
+Metadescription: Die Welcome Werkstatt in Hamburg Barmbek ist eine gemeinnützige und offene Stadtteilwerkstatt. Untergebracht in einer alten Feuerwache, bieten wir den Raum, die Werkzeuge und den Rat für handwerklich und kreativ engagierte Menschen um sich bei uns auszutoben.
+
+----
+
+Ogtemplate: 
+
+----
+
+Ogdescription: 
+
+----
+
+Ogsitename: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: summary
+
+----
+
+Robotsindex: true
+
+----
+
+Robotsfollow: true
+
+----
+
+Robotsarchive: true
+
+----
+
+Robotsimageindex: true
+
+----
+
+Robotssnippet: true
+
+----
+
+Socialmediaaccounts:
+
+twitter: ""
+facebook: >
+  https://www.facebook.com/welcome.werkstatt/
+instagram: >
+  https://www.instagram.com/welcome.werkstatt/
+youtube: ""
+linkedin: ""
+
+----
+
 Facebook: https://www.facebook.com/welcome.werkstatt
 
 ----

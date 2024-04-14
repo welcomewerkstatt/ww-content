@@ -1,1 +1,5 @@
 Template: sidebarimage
+
+----
+
+Uuid: gA99PvRiB1uGPBJ3
