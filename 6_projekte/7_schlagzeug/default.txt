@@ -1,0 +1,77 @@
+Title: Schlagzeug
+
+----
+
+Headline: Schlagzeug „Barmbek Fire Department“
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://oc9yDojHVObf7hs2"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"5ccf7cee-fa9b-476d-83cf-4843ed0186d7","isHidden":false,"type":"image"}],"id":"5a798dfc-39ad-45aa-8738-9adcf514941a","width":"1/1"}],"id":"beca39cc-2239-4b98-a011-8c0f0e2b7632"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h4","text":"Das Projekt"},"id":"34f71791-942e-4693-8c01-51a35ec81fce","isHidden":false,"type":"heading"},{"content":{"text":"<p>Am Anfang war ein gebrauchtes SONOR Force 505 Schlagzeug mit Bass Drum, Snare und drei Toms. Die Kessel sind wie viele aus preiswerten Pappelholzschichten verleimt, die zu einem Kessel gebogen werden. Das hörte sich nie richtig gut an.</p><p>In der ARD-Mediathek habe ich ein Video des SWR aus der Reihe „Handwerkskunst“ gefunden. Boris Ritscher aus Osthofen in Rheinland-Pfalz baut Schlagzeugsets aus alten Weinfässern. Also nicht aus gebogenen Schichtholzplatten, sondern aus Vollholz in Fassbauweise. Passt ja auch zu alten Weinfässern.</p><p>Die Bohlen des Weinfasses werden auseinandergesägt, geschliffen, angeschrägt, zu einem geraden Kessel verleimt und außen wie innen rundgefräst. Seine Schlagzeuge riechen tatsächlich nach Wein, heißt es.</p>"},"id":"e680fb28-c158-4d24-964a-a6a60716f3ec","isHidden":false,"type":"text"}],"id":"a65acaee-28ea-4115-a599-2b51aaf5a559","width":"2/3"},{"blocks":[{"content":{"location":"kirby","image":["file://m81q6oOtbSHW21nw"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"ce50ee24-c76f-4084-93e5-4ce426acd4c6","isHidden":false,"type":"image"}],"id":"6f696e77-3e57-41de-8f8e-f28198b505a1","width":"1/3"}],"id":"32eb2386-36e7-43ee-bd64-5405a6efd15c"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h4","text":"Steckbrief: Barmbek Fire Department"},"id":"eee6a0bc-3ae1-46bf-adbe-9d1ca8add046","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Bass-Drum 22x16 Zoll</li><li>Snare Stahl, verchromt, 14 Zoll (vom alten Schlagzeug übernommen)</li><li>Hänge-Toms: 8x8 Zoll, 10x9 Zoll, 12x10 Zoll, 13x9 Zoll</li><li>Floor Tom: 14x14 Zoll</li><li>Kessel: Wildeiche, durchgehende Lamellen</li><li>Mechaniken: Spannböckchen, Stimmschrauben, Reifen, je ein Schlag- und ein Resonanzfell pro Kessel; Füße (Floor Tom und Bass Drum) bzw. Drumhalterungen zum Anbau an das Drum Rack.</li></ul>"},"id":"3cacf71d-0d8d-4ec5-8d26-590d43f6d6ba","isHidden":false,"type":"list"},{"content":{"text":"<p>Da Boris Ritscher sich in seiner Firma Midmill Drums alle „Rigs“, also die Gestelle zum Fräsen selbst gebaut hat, ist mein Plan, es ähnlich zu machen und alle schwarzen Kessel bis auf die Snare Drum durch Wildeiche-Massivholz in Faßbauweise zu ersetzen.</p><p>Die meiste Silberware, also Reifen, Spannböckchen, Stimmschrauben etc. wird vom alten Schlagzeug übernommen. Zwei neue Toms, 9 und 13 Zoll, kommen dazu.</p>"},"id":"088c4aab-38fe-47e3-8ebb-e130e636d68c","isHidden":false,"type":"text"}],"id":"e1494fa7-8337-43f9-bdc0-63f784604ba8","width":"2/3"},{"blocks":[],"id":"33fd71ed-ad9b-4276-9e77-eb09fd7823c2","width":"1/3"}],"id":"7bd0251e-a7dd-457f-816b-7743d5a1694c"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h4","text":"Wie man es angeht:"},"id":"39dea283-d4ed-4b30-9770-4396014c2057","isHidden":false,"type":"heading"},{"content":{"text":"<p>Wie weiß man, welche Schräge die Holzstäbe haben müssen, damit sie zusammengeleimt einen runden Kessel ergeben? Der erste Kessel, der als Fuß für einen Couchtisch endete, entsteht noch mit Mathe, Zollstock und reichlich Nacharbeiten.</p>"},"id":"022877da-6a3e-4ff4-96f7-1cf5f9b9fc5c","isHidden":false,"type":"text"},{"content":{"level":"h2","text":""},"id":"c5436a35-63c8-4b90-ac00-c625637f8c61","isHidden":false,"type":"heading"}],"id":"ef0b2731-4312-40d8-a224-cecedac3b554","width":"2/3"},{"blocks":[{"content":{"location":"kirby","image":["file://12FjmI6ecdBceQvF"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"689ce93c-3f63-4e59-99e9-aca1ff39430f","isHidden":false,"type":"image"}],"id":"434b1422-9e0c-49f0-862b-ee5a21f2ae1d","width":"1/3"}],"id":"47fc0eb4-0bcb-4525-8a70-e667c87a3a51"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Die richtige Antwort gibt dieses Open-Source-Programm: <u><a href=\"https://uniontownlabs.org/tools/stave/\">https://uniontownlabs.org/tools/stave/</a></u> Ohne dieses geniale Werkzeug wäre ein genaues Arbeiten nicht möglich gewesen.</p><p>Mit dem Programm kannst Du festlegen, wie groß der Durchmesser des „Shell“ (also der Kessel von z.B. 13 Zoll - 33,02 cm), wie dick die „Staves“ (Stäbe) sein soll (1,5cm) und aus wie vielen Stäben (20) der Kessel besteht. Automatisch rechnet es den Winkel und die Maße der Stäbe aus.</p>"},"id":"681f36e3-8ebd-4631-a428-a79b1c2f9aca","isHidden":false,"type":"text"},{"content":{"text":"<p>Die Fugen werden dünn mit Holzleim ausgefüllt und der Kessel zusammengerollt. Damit die Holzstäbe mit genügend Druck zusammengepresst werden, empfehlen sich extra große Schlauchklemmen. Die Bassdrum hat immerhin einen Umfang von über 175 cm.</p>"},"id":"d25ade91-b982-4aa6-a7d5-bd78e013ead3","isHidden":false,"type":"text"},{"content":{"level":"h2","text":""},"id":"211ec4c6-3c83-4b4d-b101-ac4018cf4335","isHidden":false,"type":"heading"},{"content":{"text":""},"id":"1951a876-180e-4b46-a8e5-385e141e6b1b","isHidden":false,"type":"text"},{"content":{"level":"h4","text":"Die selbst gebauten Hilfsmittel"},"id":"b2749a8f-a45b-4fc8-b209-5c1359f9b4db","isHidden":false,"type":"heading"},{"content":{"text":"<p>Dieses in der Werkstatt selbst gebaute Gestell aus Resten des Holzlagers lässt sich auf die verschiedenen Durchmesser der Kessel einstellen. Oben ist eine Fräse festgeschraubt, deren Fräskopf (ein Abnehmer von 20mm Durchmesser) durch ein Loch im Brett in der Höhe verstellt werden kann.</p>"},"id":"9500d7bb-98bb-4f9b-a850-9f40727d12a3","isHidden":false,"type":"text"},{"content":{"text":"<p>Ist der Kessel rund gefräst, wird er mit dem Mirka Exzenter-Schleifer (Körnung 80 bis 320) glattgeschliffen.</p>"},"id":"08aa48ac-d199-49c2-bef5-0763a8f2501a","isHidden":false,"type":"text"},{"content":{"images":["file://DohX2lGh3wnDKkK2","file://KtIP2GHOgZ5amPVN"],"caption":"","ratio":"","crop":"true"},"id":"46eb1f5e-5deb-4547-8a1f-ab134af01ee0","isHidden":false,"type":"gallery"},{"content":{"level":"h4","text":"Dann kommt die Innenseite der Kessel dran"},"id":"07319649-8081-4499-9227-ebf11df24a83","isHidden":false,"type":"heading"},{"content":{"text":"<p>Auch dafür habe ich ein spezielles Gestell gebaut, in das eine verschiebbare Akku-Kantenfräse montiert wird. Wenn der Kessel nicht gleichmäßig dick ist – manchmal trifft man beim Bohren des Lochs für die Gewindestange die Mitte nicht ganz – gleicht sich das hier von selbst aus. Die Hartgummirollen sorgen für einen weichen Lauf.</p>"},"id":"6c44395d-144c-444c-a28e-4fd8867b20f0","isHidden":false,"type":"text"},{"content":{"text":"<p>Beim Rundfräsen verlieren die Stäbe weitere Millimeter Stärke. Je dünner der Kessel, desto stärker die Resonanz. Die Pappelkessel waren 7mm stark, meine Eichenkessel ca. 10mm – aus Vorsicht. Je dünner die Kessel, desto leichter brechen sie beim Bearbeiten auseinander.</p><p>Auch innen wird geschliffen – per Hand und mit Hilfe der Bandschleifmaschine.</p>"},"id":"58f66452-d38e-4937-9c16-b5ad61a9a83c","isHidden":false,"type":"text"},{"content":{"level":"h2","text":""},"id":"136309e3-7184-47cc-9cc6-4fdf16bf03cb","isHidden":false,"type":"heading"},{"content":{"text":"<p>Als nächstes werden die Ränder auf die gleiche Höhe und nach oben verjüngend geschliffen, damit das Schlagzeugfell nicht auf der 10mm dicken Holzkante sitzt, sondern auf einem dünnen abgerundeten Rand. Sonst kommt das Fell nicht richtig ins Schwingen.</p><p>Die Mechaniken des alten Schlagzeugs werden vermessen und mit Masken angezeichnet. Vorsicht beim Vermessen! Zwei Kessel haben einige Löcher zu viel, die ich mit abgesägten Dübeln wieder zumachen musste. Die fertigen Kessel bekommen vor dem Montieren der Mechaniken ein Finish aus Leinöl, das mit einem Lappen aufgetragen wird.</p>"},"id":"bf67d123-8981-413c-8269-860405c6da63","isHidden":false,"type":"text"},{"content":{"images":["file://F6VPl9FeBY8iofKY","file://Z2Eg8n5gqIpnavOH"],"caption":"","ratio":"","crop":"false"},"id":"6084ef66-f96e-4327-aaab-a362cd93f43c","isHidden":false,"type":"gallery"},{"content":{"text":"<p>Ein Spannböckchen nach dem anderen wird nun festgeschraubt. Sie nehmen später die Stimmschrauben des Reifens auf, der das Schlagzeugfell auf den Holzrand drückt. Und dann geht es zur Montage des Sets.</p>"},"id":"ba46a7e5-f761-42b7-9c4a-a2e0b2dd2f73","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://5Uztiv8rIcp8ykAR"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"cb5646aa-7ad0-448c-b397-66d26fa5dde0","isHidden":false,"type":"image"},{"content":{"text":"<p>Die neue Bass Drum ist mit 22 Zoll um einiges größer als die alte 20 Zoll. Deshalb sind hier nur die Spannböckchen, Stimmschrauben und die Standfüße übernommen. Der Reifen (aus Holz, anders als die Stahlreifen der Toms) und die beiden Felle sind neu. Die Mechaniken für die neuen 8 Zoll- und 13 Zoll-Toms – das alte Schlagzeug hatte ja nur drei, ich wollte fünf Toms – sind im Handel gekauft.</p>"},"id":"c2b6b056-7779-445f-878e-cfa238e96f9a","isHidden":false,"type":"text"},{"content":{"images":["file://1ynTh7OD3GIwd1Ox","file://KqlPYBSvg5ZhcZUv"],"caption":"","ratio":"","crop":"false"},"id":"355cc525-9d4d-4d31-8375-49a40e5f0784","isHidden":false,"type":"gallery"},{"content":{"location":"kirby","image":["file://VSx1te7zLmossE71"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"dd432fdb-5626-4983-b673-2c64b8b44369","isHidden":false,"type":"image"},{"content":{"text":"<p>So perfekt wie Boris Ritschers Drums ist mein Schlagzeug nicht geworden. Für ordentlich Krach reicht es aber!</p>"},"id":"3b3c0149-3937-4abc-9a33-04fd23735c3c","isHidden":false,"type":"text"},{"content":{"level":"h4","text":"Was du brauchst:"},"id":"fbc646a2-db0d-4291-8ad7-a9f7a39a7045","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Formatkreissäge</li><li>Zollstock, Bleistift, Lineal</li><li>Digitaler Messschieber zum Kontrollieren der Maße der Stäbe</li><li>Mini-Wasserwaage (Digital), Stichsäge zum Aussägen der Deckel</li><li>Oberfräse und Kantenfräse, 20mm Abnehmer</li><li>Bandschleifmaschine</li><li>Mirka Exzenterschleifer, Körnung 80 bis 320</li><li>Handbohrer</li><li>Akkuschrauber für die Stimmschrauben eine viereckige Nuss mit 6,5mm Kantenmaß</li><li>Klebeband</li><li>Schlauchklemmen</li><li>Holzleim</li><li>Leinöl</li></ul>"},"id":"e9111f23-d465-4373-8b76-9d4a1702a6df","isHidden":false,"type":"list"},{"content":{"text":"<p>Beide Gestelle und die daran montierte Oberfräse lagern noch in der Werkstatt.</p>"},"id":"65d060c0-59f1-4d38-a94f-d22a585a4846","isHidden":false,"type":"text"},{"content":{"text":"<p>Fragen an Thomas <br>über info(ätt)welcome-werkstatt.de</p>"},"id":"3ecf2d6a-162a-4e83-8c40-86af71ec3806","isHidden":false,"type":"text"}],"id":"bf49cb6a-2a50-40d3-9c50-abb85320b44f","width":"2/3"},{"blocks":[{"content":{"location":"kirby","image":["file://gZ6SgQqoq7B4RnAz"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"fe49f1e9-60bb-4c2e-973e-e729ca29ff02","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://BPino41brjewSD87"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"eee06ea4-746d-40c1-b83f-dfefa25be197","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://sTBw0GDYeVZael72"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"530a195e-7186-437b-9390-a03239f17f3f","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://m4YXaKuveNo6ccFz"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"4e8adc00-6888-483b-a21d-1c749566348e","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://ZxR3Ez4nvUN8SvBm"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"083a0d6e-c8d0-410f-be86-da1b20d72317","isHidden":false,"type":"image"},{"content":{"text":"<p> </p>"},"id":"d9a3c7a5-1b46-4749-9e9b-891ce642a02b","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://QC1uaxAYluK1gMSJ"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"91d21aa0-361a-4a15-95d4-723a5cb5ccb2","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://FyVlFQCqz4PXdHNP"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"0ca8db41-4991-4840-86d9-3f8e48483353","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://lFIqY3Vc60JUa2cy"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"6b1b1f0d-bedb-4ebb-8821-1d9c7acc82ca","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://YJlZfqx0Auni33gu"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"f44be9fe-2848-4b22-8082-de3f5b1f7cf4","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://v2WouEn24qazve8K"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"95563cc8-a943-4fb5-a91b-f87dc6a6a27e","isHidden":false,"type":"image"}],"id":"4e97d307-51a4-43c4-b85f-decbd31f51f8","width":"1/3"}],"id":"21a10a97-4124-4976-a5b4-bad933d3b2fe"}]
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
+
+----
+
+Uuid: B7C4v2cJiJ1A5aWo

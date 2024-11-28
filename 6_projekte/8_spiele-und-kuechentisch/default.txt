@@ -1,0 +1,77 @@
+Title: Spiele- und Küchentisch
+
+----
+
+Headline: Ein Küchentisch wird zum Spieletisch
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://mho49BkvQo66JoIs"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"5ccf7cee-fa9b-476d-83cf-4843ed0186d7","isHidden":false,"type":"image"}],"id":"5a798dfc-39ad-45aa-8738-9adcf514941a","width":"1/1"}],"id":"beca39cc-2239-4b98-a011-8c0f0e2b7632"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h4","text":"Das Projekt"},"id":"34f71791-942e-4693-8c01-51a35ec81fce","isHidden":false,"type":"heading"},{"content":{"text":"<p>Ein(e) BesucherIn unserer offenen Werkstatt, sie findet jeden zweiten Samstag von 14 bis 18 Uhr statt, wollte gerne einen Küchentisch so umbauen, dass die Platte abgehoben werden kann und sich darunter eine zweite Ebene befindet, die als Spieletisch verwendet werden kann.<br>Diese Konstruktion hat den Vorteil, dass das bereits angefangene Spiel auf der unteren Ebene stehen bleiben kann, während gleichzeitig darüber der Küchentisch (mit aufgelegter Platte) seiner eigentlichen Funktion nachkommen kann. <br>Die gemeinsame Planung (s.u.) ergab einen Spieletisch, der eine Fläche von 100 x 56 cm und rundum eine Armauflage von 7 cm ergab.</p>"},"id":"e680fb28-c158-4d24-964a-a6a60716f3ec","isHidden":false,"type":"text"}],"id":"a65acaee-28ea-4115-a599-2b51aaf5a559","width":"2/3"},{"blocks":[{"content":{"location":"kirby","image":["file://qA88QFK0Ub5PjePZ"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"ce50ee24-c76f-4084-93e5-4ce426acd4c6","isHidden":false,"type":"image"}],"id":"6f696e77-3e57-41de-8f8e-f28198b505a1","width":"1/3"}],"id":"32eb2386-36e7-43ee-bd64-5405a6efd15c"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://wVCq01rMhSS2KT1h"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"b961f38b-cf47-48b1-abe9-fffd4f0beda9","isHidden":false,"type":"image"}],"id":"e1494fa7-8337-43f9-bdc0-63f784604ba8","width":"2/3"},{"blocks":[{"content":{"location":"kirby","image":["file://jp8QjRO4r6Hw1VbL"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"8837f363-d4f9-456d-b4ad-c340d01f416e","isHidden":false,"type":"image"}],"id":"33fd71ed-ad9b-4276-9e77-eb09fd7823c2","width":"1/3"}],"id":"7bd0251e-a7dd-457f-816b-7743d5a1694c"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://KrOxPKDPj4HFvLit"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"c963d55f-e415-45e4-b26c-a966a4b9ee34","isHidden":false,"type":"image"}],"id":"ef0b2731-4312-40d8-a224-cecedac3b554","width":"2/3"},{"blocks":[],"id":"434b1422-9e0c-49f0-862b-ee5a21f2ae1d","width":"1/3"}],"id":"47fc0eb4-0bcb-4525-8a70-e667c87a3a51"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h4","text":"Was du brauchst:"},"id":"fbc646a2-db0d-4291-8ad7-a9f7a39a7045","isHidden":false,"type":"heading"},{"content":{"text":"<p>Wir haben den Rahmen und die Auflage aus 16 mm starken Fichtenholzbrettern erstellt. Der eigendliche Boden (2. Ebene) besteht aus einer 6,5 mm starken Multiplexplatte.</p>"},"id":"5a09e5a2-b349-4ee2-a918-8c853082d44e","isHidden":false,"type":"text"},{"content":{"text":"<p>Fragen an halfas(ätt)t-online.de</p>"},"id":"3ecf2d6a-162a-4e83-8c40-86af71ec3806","isHidden":false,"type":"text"}],"id":"bf49cb6a-2a50-40d3-9c50-abb85320b44f","width":"2/3"},{"blocks":[{"content":{"text":"<p> </p>"},"id":"d9a3c7a5-1b46-4749-9e9b-891ce642a02b","isHidden":false,"type":"text"}],"id":"4e97d307-51a4-43c4-b85f-decbd31f51f8","width":"1/3"}],"id":"21a10a97-4124-4976-a5b4-bad933d3b2fe"}]
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
+
+----
+
+Uuid: YMkYK9tj8N8sUq9s
