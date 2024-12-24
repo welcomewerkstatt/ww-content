@@ -1,0 +1,77 @@
+Title: regal
+
+----
+
+Headline: Regal für Euroboxen auf Basis von osSHELF
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Erstellt von Andrea, Dezember 2024.</p><p></p>"},"id":"d5a89b8b-da82-42cb-b11b-2c9bc924147f","isHidden":true,"type":"text"}],"id":"89f9eb01-5261-4bff-bc2e-7b8c0a7069d2","width":"1/1"}],"id":"64963a5f-2cc9-438f-8bb6-b8791a875a49"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Chaos im Werkzeuglager hatte uns zum Bau eines osSHELF-Regales für Euroboxen gebracht, das sich sehr bewährt.</p><p>Dieses Regal haben wir nun um zwei neue Regale erweitert. Diese sind an das osSHELF-System angelehnt, aber deutlich verbessert. Das aufwendige Biegen der Bleche entfällt in der hier veröffentlichten Variante komplett.</p><p>Das Regal hat Plätze für verschieden hohe Euroboxen,  32cm, 22cm oder 12cm hoch. Die Anzahl und Verteilung der Boxen ist vollkommen flexibel.</p>"},"id":"469723d1-83fe-4fc2-8e40-f3f7d056eef2","isHidden":false,"type":"text"}],"id":"a86aeec2-eab1-4e47-aa14-09e46b5e5415","width":"1/1"}],"id":"df723426-40fd-4855-8431-64eef9454418"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h4","text":"Das Projekt"},"id":"34f71791-942e-4693-8c01-51a35ec81fce","isHidden":false,"type":"heading"},{"content":{"text":"<p>Das Regal wurde in Anlehnung an osSHELF gebaut, für das es eine offene Anleitung gibt unter <a href=\"https://ossso.de/osshelf/\">https://ossso.de/osshelf/</a>.<br>Auf dieser Seite findest du die Anleitung zum Bau einer verbesserten Version ohne die zu biegenden Bleche. Das Regal darf frei nachgebaut werden. </p>"},"id":"011cdc10-38d9-443b-a05b-8a09c77d0fc0","isHidden":false,"type":"text"},{"content":{"level":"h4","text":"Steckbrief"},"id":"eee6a0bc-3ae1-46bf-adbe-9d1ca8add046","isHidden":false,"type":"heading"},{"content":{"text":"<p>Außenmaße des fertigen Regals:</p>"},"id":"3cacf71d-0d8d-4ec5-8d26-590d43f6d6ba","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Breite  cm</li><li>Tiefe  cm</li><li>Höhe  cm</li></ul>"},"id":"ae3e85ea-413d-4397-bbed-96efe364f9bf","isHidden":false,"type":"list"},{"content":{"level":"h4","text":"Was brauchst du, um ein Regal zu bauen?"},"id":"7f135b8d-9cc7-4dfc-8aaa-2e09cc9cb2d6","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Stückliste für ein Doppel-Regal</strong></p><p>Als Holz wurde 18mm Buche Multiplex Platte B/BB IF20 gewählt</p>"},"id":"2e9826af-011f-4f24-a6d8-616009bdbf6e","isHidden":false,"type":"text"},{"content":{"text":"| | Bezeichnung | Anzahl | Preis (Stand Okt. 2024) |\n|---|----------|---------|----------|\n| 1 | Einschlagmutter M6 | 50 | ca. 10 € |\n| 2 | Inbus Senkschrauben M6x30 ISO 10462 | 100 | ca. 30 € |\n| 3 | Sechskantschraube M6x35 | 8 | ca. 1 € |\n| 4 | Unterlegscheibe M6 | 8 | ca. 1 € |\n| 5 | Boden/Deckenbrett 405x610 mm  | 4 | ca. 95 € |\n| 6 | Seitenwand vorgebohrt 30 Löcher 2000x610 mm | 4 | ca. 385 € |\n| 7 | Zwischenboden mit Aussparung 409x610 mm | 2 | ca. 55 € |\n| 8 | Platte zur Herstellung der Fachschienen 500*610 mm | 1 | ca. 50 € |\n| 9 | Restholz für Rückwand | 2 | 0 € |\n|  | Summe |  | ca. 750 € |"},"id":"6c370898-8b60-4a59-a26b-db5dffa952d9","isHidden":false,"type":"markdown"},{"content":{"text":"<p></p><p><strong>Euroboxen:</strong></p><p>Für zwei Regale haben wir uns folgende Boxen für insgesamt ca. 250 € zusammen gestellt:</p><p>10 Stück 12x40x60<br>6 Stück 22x40x60<br>2Stück 32x40x60</p><p><br></p>"},"id":"21e60163-5295-4cce-bc3b-81bc468adde1","isHidden":false,"type":"text"}],"id":"a65acaee-28ea-4115-a599-2b51aaf5a559","width":"2/3"},{"blocks":[{"content":{"location":"kirby","image":["file://vbusXUGcceyIKfBo"],"src":"","alt":"","caption":"Viel Stauraum gewonnen mit 2 neuen Regalen<br>","link":"","ratio":"","crop":"false","customclasses":""},"id":"233df901-8588-4e42-8a5b-cc920fa034ed","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://934QUoZ1blq4Pmgq"],"src":"","alt":"","caption":"Zwischenböden für Stabilität<br>","link":"","ratio":"","crop":"false","customclasses":""},"id":"32a954b2-c5e4-4db8-b88c-6b0de5eecac9","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://nUaN7EazFKkk3ecc"],"src":"","alt":"","caption":"Flexibel versetzbare Fachschienen in Nuten ersetzen die früheren Bleche","link":"","ratio":"","crop":"false","customclasses":""},"id":"317b8524-786c-4141-8a79-c4dc82f77188","isHidden":false,"type":"image"}],"id":"6f696e77-3e57-41de-8f8e-f28198b505a1","width":"1/3"}],"id":"32eb2386-36e7-43ee-bd64-5405a6efd15c"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h4","text":"Aufbau des Regals"},"id":"fa1fe1d6-eacb-4a89-89de-7a3d06d29e14","isHidden":false,"type":"heading"}],"id":"6dc75722-cc29-4f53-a94b-0f5d31d0de73","width":"1/1"}],"id":"8dabc2a2-0397-426e-b1f7-8ac9d578f313"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"1. In die Innenseiten der Seitenteile werden ### mm tiefe Nuten mit einer Breite von 18 mm eingefräst. Dabei werden die vorgebohrten Löcher als Abstandshalter genutzt (WIE DENN GENAU???). \n\n2. Auf der Außenseite der Seitenteile werden die Bohrungen mit einer Flachsenkung für die Einschlagmuttern versehen. \n\n3. Für den Korpus werden Deckel, Zwischenboden und Boden mit Dominos auf einem Seitenteil ausgerichtet, dann das zweite Seitenteil mit Domios aufgesetzt und alles verschraubt. Es wird kein Leim verwendet. \n\n4. Die Einschlagmuttern werden mithilfe einer Schraube und einer Unterlegscheibe mit einem Akkuschrauber eingezogen. \n\n5. Auf der Rückseite wird im oberen und unteren Bereich eine Rückwand aus Restholz aufgeschraubt. \n\n6. Das verwendete Material erfordert unbedingt ein Vorbohren der Löcher. \n\n7. Die Fachschienen werden auf einer Tischkreissäge zugesägt und anschließend gemäß Zeichnung mit Bohrung und Senkung versehen. Hierfür ist eine Vorrichtung sinnvoll. (ANLEITUNG FÜR DIE VORRICHTUNG??)\n\n8. Die einzelnen Schienen werden zusammengestellt und die Phase angefräst. \n\n9. Abschließend kann das Regal aufgestellt und die Fachschienen mit Senkkopfschrauben in der gewünschten Höhe befestigt werden."},"id":"2f18c9a8-0e91-47a8-9926-ca0bd23589b7","isHidden":false,"type":"markdown"}],"id":"09fa076f-6e7a-43c4-ace8-7be02c335407","width":"2/3"},{"blocks":[{"content":{"location":"kirby","image":["file://BZfxGU0H9XJwLD7X"],"src":"","alt":"Nuten fräsen für die Leisten","caption":"Nuten fräsen für die Leisten","link":"","ratio":"","crop":"false","customclasses":""},"id":"f4fad845-21c6-4023-8a45-adac41f3f7ae","isHidden":false,"type":"image"}],"id":"3d72ed3b-f4b0-4a1f-aaaf-5ada8903a989","width":"1/3"}],"id":"04118d9c-123b-43ee-882e-83c6f1f64965"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://ZEMJwgozHE4l2p6Q"],"src":"","alt":"Leisten zusägen","caption":"Leisten zusägen","link":"","ratio":"","crop":"false","customclasses":""},"id":"f12c6876-3517-4852-94ae-eae722af49fc","isHidden":false,"type":"image"}],"id":"63da5756-76ea-4ef2-bbde-973da4d80585","width":"1/3"},{"blocks":[{"content":{"location":"kirby","image":["file://TA9PV2ks3DETF1Ju"],"src":"","alt":"Seitenteil Innenseite","caption":"Seitenteil Innenseite","link":"","ratio":"","crop":"false","customclasses":""},"id":"b459ab18-275c-44d0-b3cb-ee73be8f658e","isHidden":false,"type":"image"}],"id":"8503fbf4-d648-4a64-9072-53ded6f738dc","width":"1/3"},{"blocks":[{"content":{"location":"kirby","image":["file://L02dSDSfy8qjloBQ"],"src":"","alt":"Seitenteil Außenseite","caption":"Seitenteil Außenseite","link":"","ratio":"","crop":"false","customclasses":""},"id":"517afb73-ca55-4ffd-a3a4-4f3ad85b1a68","isHidden":false,"type":"image"}],"id":"f649f8d4-20b3-422e-b0e9-921281bd4238","width":"1/3"}],"id":"52278d83-1b0f-4880-b26d-dc03b2b276c6"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://DxuZMcszs3iBCueU"],"src":"","alt":"Leisten bohren mit Anschlag","caption":"Leisten bohren mit Anschlag","link":"","ratio":"","crop":"false","customclasses":""},"id":"d46821a8-4ff4-4966-963c-da154a01e0d2","isHidden":false,"type":"image"}],"id":"38117a2d-ca58-41d6-ba42-5ff20aca755b","width":"1/3"},{"blocks":[{"content":{"location":"kirby","image":["file://qeqMqTGVgIhPHSld"],"src":"","alt":"Leistenlöcher senken","caption":"Leistenlöcher senken","link":"","ratio":"","crop":"false","customclasses":""},"id":"9e3c5277-ccc4-4719-8595-0c3b5b55f1b7","isHidden":false,"type":"image"}],"id":"d418bb33-eda4-4501-877b-78aefc8e8fe6","width":"1/3"},{"blocks":[{"content":{"location":"kirby","image":["file://5LNhyGr9ayf0OGCK"],"src":"","alt":"Einschlagmuttern einsetzen","caption":"Einschlagmuttern einsetzen","link":"","ratio":"","crop":"false","customclasses":""},"id":"d1336271-9dc4-4763-959f-a62abab7c2af","isHidden":false,"type":"image"}],"id":"e3bfb20e-a53c-418e-b133-21a5f2165e3e","width":"1/3"}],"id":"539e6dc9-0fc4-4c5c-b798-2b07474fe1da"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://csvg98JwuXFlWyXg"],"src":"","alt":"Regal mit Rückwand","caption":"Regal mit Rückwand","link":"","ratio":"","crop":"false","customclasses":""},"id":"bdf06332-ebd1-4896-ae84-5aa8b7308a27","isHidden":false,"type":"image"}],"id":"3e55cf78-fdf1-4545-8592-e479ce2ad956","width":"1/1"}],"id":"57f98485-dfe7-4db9-ae1b-8605fe3d57e7"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h4","text":"CAD-Daten"},"id":"785b88f4-ed8b-499d-bacd-f2cc826d1bb1","isHidden":false,"type":"heading"}],"id":"d6498536-03f3-4929-8cbf-0700e4e06d20","width":"1/1"}],"id":"3f16356d-7eba-442e-8361-0603df655da9"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Hier fehlt noch was...</p><p></p><p></p>"},"id":"3e2bb6a8-6eef-4c97-a1e3-04039d990739","isHidden":false,"type":"text"}],"id":"bf49cb6a-2a50-40d3-9c50-abb85320b44f","width":"2/3"},{"blocks":[],"id":"4e97d307-51a4-43c4-b85f-decbd31f51f8","width":"1/3"}],"id":"21a10a97-4124-4976-a5b4-bad933d3b2fe"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Fragen an info(ätt)welcome-werkstatt.de</p>"},"id":"a65f2482-3439-4c5d-8c71-ddbcced0e620","isHidden":false,"type":"text"}],"id":"99f0ab96-6120-445e-90eb-753e1a928af2","width":"2/3"},{"blocks":[],"id":"ce0cec40-8c09-4837-9f8c-236aa59919e6","width":"1/3"}],"id":"94039428-3382-4383-a1e2-61edcdf1ed9b"}]
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
+
+----
+
+Uuid: xYHRXlAtmGNyIw7E
