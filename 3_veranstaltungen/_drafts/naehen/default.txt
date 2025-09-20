@@ -1,0 +1,77 @@
+Title: Workshop Nähen
+
+----
+
+Headline: Workshop Nähen
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"Nähen für absolute Anfänger:innen"},"id":"72ee0c77-04cf-4b31-a41b-0b0cd80b6a5d","isHidden":false,"type":"heading"}],"id":"25386728-2db7-4b75-a61f-2eecb3c7dfb9","width":"1/1"}],"id":"a511a42a-cd08-4b76-8dd1-5e9598444b98"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>In diesem Workshop in der Welcome Werkstatt in Barmbek-Süd lernst du die Grundlagen zum Nähen. Inspiriert wurde er durch unser Angebot beim Repair Café, wo manche Gäste für sehr einfache Näharbeiten Hilfe suchen. Daher richtet sich dieser Workshop an Nähanfänger:innen, die nicht wissen, wie man eine Nadel einfädelt oder wo ihre Nähmaschine angeht. </p><p>Nach einem kleinen Theorieausflug in Materialkunde und die Grundlagen dieses Handwerks, nähen wir mit der Hand und mit der Maschine. Wir erarbeiten uns Schritt für Schritt die Einrichtung einer Nähmaschine und üben anhand eines kleinen Nähprojektes am Ende. </p>"},"id":"5eed2848-2ecd-452d-a180-7cb74b80dab9","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Infos zum Ablauf"},"id":"ad20479f-7fc0-4849-8955-865b8d82af3a","isHidden":false,"type":"heading"},{"content":{"text":"<p>Der Workshop dauert etwa vier Stunden. Wir werden das Nähprojekt in der Zeit wahrscheinlich nicht ganz fertig bekommen, darum bieten wir im Anschluss \"freies Arbeiten\" an, damit wir dir bei der Fertigstellung noch zur Seite stehen können. Plane dafür bis zu zwei Stunden extra ein. <br>Es gibt eine Pause. Nimm dir dafür am besten einen Snack mit.<br>Pro Workshop-Termin können maximal acht Personen teilnehmen. <br>Die Vorträge und Erklärungen sind auf Deutsch. Einzelne Erklärungen können auch in Englisch gegeben werden.</p>"},"id":"9ee9d592-5a2f-48bc-98b5-39ec66ed6e01","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Vorkenntnisse"},"id":"26358c1d-5655-42bb-a911-a601799d7079","isHidden":false,"type":"heading"},{"content":{"text":"<p>Es sind keine Vorkenntnisse notwendig - der Workshop ist für absolute Anfänger:innen. </p>"},"id":"117333cc-72bc-464b-a6ae-d7adca9f229c","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Mitbringen"},"id":"9c4b2477-524d-475e-85a4-77aaf2f03bb5","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Eine Nähmaschine wäre toll, damit du deine eigene Maschine kennen lernst.<br>Wir können leider nicht für alle Nähmaschinen zur Vefügung stellen (first come - first serve). <br>Falls unsere bereits alle zugewiesen sind und du keine eigene hast, hier ein Tipp: Man kann auch bei den Hamburger Bücherhallen Nähmaschinen ausleihen. Frag da gerne mal nach!Achte darauf, alles nötige Zubehör einzupacken: Stromkabel, Fußpedal, Nadel, Unterfadenspule und ggf. Spulenkapsel, Garnhalter (die kleinen Teller, die die Garnrolle festhalten). Die Nähmaschine sollte prinzipiell funktionieren. Wir werden leider für Reparaturen, die über grundlegende Einstellungen hinausgehen, keine Zeit haben. </li><li>Alle anderen Materialien stellen wir. Wir werden am Ende einen Einkaufsbeutel nähen. Wenn du stabilen Stoff (möglichst aus Baumwolle oder Leinen), z.B. von Vorhängen oder Tischdecken über hast, kannst du den gerne mitbringen.</li></ul>"},"id":"21f62c1e-3399-47f5-b8eb-ca915e934c4e","isHidden":false,"type":"list"},{"content":{"level":"h3","text":"Kosten"},"id":"e9b88f69-e487-45d3-be38-cf7ed25b4dd4","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Für den Workshop erheben wir eine Teilnahmepauschale von 10,-, Ermäßigung auf Anfrage möglich.</li></ul>"},"id":"626e0a8f-c18a-487a-86b2-d4f63d5a6793","isHidden":false,"type":"list"}],"id":"db27f988-8145-411c-b2b9-1744cc0a9ff5","width":"2/3"},{"blocks":[{"content":{"level":"h4","text":"Bilder"},"id":"1dc00371-91ff-4110-a996-1178baef03f3","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":[],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"462ebffa-5d44-4dbf-bd34-2e1b3bf4f8a1","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":[],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"adf741b3-3a63-4dc3-90cd-c1648592c031","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":[],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false","customclasses":""},"id":"c0cbec2d-2be7-435d-8dc7-24d00a90271f","isHidden":false,"type":"image"}],"id":"30fd61ab-d95b-4c16-ba5d-bb6f08ab1016","width":"1/3"}],"id":"17569eed-9a6e-4f7a-9a72-9b8b49f6eb37"},{"attrs":[],"columns":[{"blocks":[],"id":"4d6ab8fc-06fd-4646-a8f6-15e2643939d6","width":"2/3"},{"blocks":[],"id":"8228691e-ce27-4ee7-bdc1-87ec798c4da8","width":"1/3"}],"id":"ad8b9a66-e458-40f3-9d62-bfdeed078a41"},{"attrs":[],"columns":[{"blocks":[],"id":"5fd6ef24-854a-4f2c-b592-7cd690fb4b3b","width":"1/3"},{"blocks":[],"id":"e053d1ac-f64a-4838-a9e7-5da15db6cdc6","width":"1/3"},{"blocks":[],"id":"0f47e0f7-3824-4077-bbfe-4431dff29fd9","width":"1/3"}],"id":"2909fbdf-6ea9-48be-a8f0-a992cf1b981f"},{"attrs":[],"columns":[{"blocks":[],"id":"e2961bff-c735-4d39-993c-fed9ad7d7c40","width":"2/3"},{"blocks":[],"id":"c270ee2c-cf82-4f8c-946b-a364243bfc9e","width":"1/3"}],"id":"7b7c3076-7665-41cb-a8af-1682a9f06612"}]
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
+
+----
+
+Uuid: gB5CZ5BIboUUkFQT
